@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/opcMenuPerfil">
+
+    <fragment
+        android:id="@+id/opcMenuPerfil"
+        android:name="com.example.miscobros.PerfilFragment"
+        android:label="Mi perfil"
+        tools:layout="@layout/fragment_perfil" />
+    <fragment
+        android:id="@+id/opcAcercaDe"
+        android:name="com.example.miscobros.AcercaDeFragment"
+        android:label="Acerca de"
+        tools:layout="@layout/fragment_acerca_de" />
+    <fragment
+        android:id="@+id/opcCerrarSesion"
+        android:name="com.example.miscobros.CerrarFragment"
+        android:label="Cerrar Sesión"
+        tools:layout="@layout/fragment_cerrar" />
+    <fragment
+        android:id="@+id/opcListaClientes"
+        android:name="com.example.miscobros.ListaClientesFragment"
+        android:label="Lista de clientes"
+        tools:layout="@layout/fragment_lista_clientes" />
+    <fragment
+        android:id="@+id/opcListaCobradores"
+        android:name="com.example.miscobros.ListaCobradoresFragment"
+        android:label="Lista de cobradores"
+        tools:layout="@layout/fragment_lista_cobradores" />
+    <fragment
+        android:id="@+id/opcCobros"
+        android:name="com.example.miscobros.ListasCobrosFragment"
+        android:label="Cobros"
+        tools:layout="@layout/fragment_lista_cobros" />
+</navigation>

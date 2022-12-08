@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADMN/Desktop/MisCobros/app/src/main/res/layout/activity_agregar_cobros.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ADMN/Desktop/MisCobros/app/src/main/res/layout/fragment_lista_clientes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ADMN/Desktop/MisCobros/app/src/main/res/layout/fragment_lista_cobradores.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ADMN/Desktop/MisCobros/app/src/main/res/layout/fragment_lista_cobros.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/ADMN/Desktop/MisCobros/app/src/main/res/layout/item_cliente_list.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/ADMN/Desktop/MisCobros/app/src/main/res/layout/item_cobros_list.xml" value="0.25" />
+        <entry key="..\:/Users/ADMN/Desktop/MisCobros/app/src/main/res/layout/item_seleccionar_cliente_list.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/ADMN/Desktop/MisCobros/app/src/main/res/layout/item_seleccionar_cobrador_list.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/ADMN/Downloads/MisCobros/app/src/main/res/layout/activity_agregar_cliente.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ADMN/Downloads/MisCobros/app/src/main/res/layout/activity_agregar_cobros.xml" value="0.25" />
+        <entry key="..\:/Users/ADMN/Downloads/MisCobros/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ADMN/Downloads/MisCobros/app/src/main/res/layout/fragment_cerrar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ADMN/Downloads/MisCobros/app/src/main/res/layout/fragment_lista_clientes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ADMN/Downloads/MisCobros/app/src/main/res/layout/fragment_lista_cobradores.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/ADMN/Downloads/MisCobros/app/src/main/res/layout/fragment_lista_cobros.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/ADMN/Downloads/MisCobros/app/src/main/res/layout/layout_navigation_header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/t/Desktop/MisCobros/app/src/main/res/layout/activity_agregar_cobros.xml" value="0.18568840579710144" />
+        <entry key="..\:/Users/t/Desktop/MisCobros/app/src/main/res/layout/activity_main.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/t/Desktop/MisCobros/app/src/main/res/layout/activity_register.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/t/Desktop/MisCobros/app/src/main/res/layout/activity_seleccionar_cliente.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/t/Desktop/MisCobros/app/src/main/res/layout/activity_seleccionar_cobrador.xml" value="0.25" />
+        <entry key="..\:/Users/t/Desktop/MisCobros/app/src/main/res/layout/fragment_lista_clientes.xml" value="0.18568840579710144" />
+        <entry key="..\:/Users/t/Desktop/MisCobros/app/src/main/res/layout/fragment_lista_cobradores.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/t/Desktop/MisCobros/app/src/main/res/layout/fragment_lista_cobros.xml" value="0.25" />
+        <entry key="..\:/Users/t/Desktop/MisCobros/app/src/main/res/layout/item_cliente_list.xml" value="0.1641337386018237" />
+        <entry key="..\:/Users/t/Desktop/MisCobros/app/src/main/res/layout/item_cobrador_list.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/t/Desktop/MisCobros/app/src/main/res/layout/item_cobros_list.xml" value="0.15" />
+        <entry key="..\:/Users/t/Desktop/MisCobros/app/src/main/res/layout/item_seleccionar_cliente_list.xml" value="0.25" />
+        <entry key="..\:/Users/t/Desktop/MisCobros/app/src/main/res/layout/item_seleccionar_cobrador_list.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

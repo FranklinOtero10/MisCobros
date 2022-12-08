@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Mis Cobros</string>
+    <!--    Login-->
+    <string name="usuario">Email</string>
+    <string name="contra">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <!--    Menu principal-->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre_usuario">Usuario</string>
+    <string name="inicio_mis_cobros">Inicio Mis Cobros</string>
+    <string name="descrip_imagen">ImagenMenu</string>
+    <string name="mi_perfil">Mi perfil</string>
+    <string name="logo">ImgPrincipal</string>
+    <string name="otros">Otros</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="lista_de_cobradores">Lista de cobradores</string>
+    <string name="lista_de_clientes">Lista de clientes</string>
+    <string name="cobros">Cobros</string>
+    <string name="reportes">Reportes</string>
+    <!--    Acerca de-->
+    <string name="app_nameV">Mis Cobros Versión 1.0.0</string>
+    <string name="desarrolladores">Desarrolladores</string>
+    <string name="dv1">Franklin Abelino Espinoza Otero</string>
+    <string name="dv2">Roberto Antonio Flores Barrientos</string>
+    <string name="dv3">Wilber Armando Pérez Vázquez</string>
+    <string name="dv4">Dannis Osmel Sánchez López</string>
+    <string name="dv5">Xavier Antonio Argumedo Melgar</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="helper_text">Minimo 6 carácteres</string>
+    <string name="imgAddCliente">Agregar cliente</string>
+    <string name="imgAddCobrador">Agregar cobrador</string>
+    <string name="abrirCamara">Cámara</string>
+    <string name="abrirGaleria">Galeria</string>
+    <string name="nombreCom">Nombres</string>
+    <string name="dir">Dirección</string>
+    <string name="tel">Télefono</string>
+    <string name="guardar">Guardar</string>
+    <string name="msg_dialog">Guardando… Por favor espere</string>
+    <string name="btnMod">Modificar</string>
+    <string name="btnElim">Eliminar</string>
+    <string name="update">Actualizar</string>
+    <string name="concepCob">Concepto</string>
+    <string name="saldoCob">Saldo a pagar</string>
+    <string name="fechaCob">Fecha de cobro</string>
+    <string name="CobradorCob">Seleccionar cobrador</string>
+    <string name="ClienteCob">Seleccionar cliente</string>
+    <string name="AddCob">Agregar</string>
+</resources>

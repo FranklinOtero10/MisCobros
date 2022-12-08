@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "547613737020",
+    "firebase_url": "https://miscobros-564a8-default-rtdb.firebaseio.com",
+    "project_id": "miscobros-564a8",
+    "storage_bucket": "miscobros-564a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547613737020:android:7f6597cc21f84a438e0339",
+        "android_client_info": {
+          "package_name": "com.example.miscobros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547613737020-it7npv4gj4gel6evff0m2u5ls2g43hso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miscobros",
+            "certificate_hash": "337b6d766cc9571cbef18337992d481b40acad8e"
+          }
+        },
+        {
+          "client_id": "547613737020-k3hu6m4hue1ub80rq39hva883f79i22g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpfGgp2hkTgI6YgtMh64dTEnHnKuDCdQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547613737020-k3hu6m4hue1ub80rq39hva883f79i22g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

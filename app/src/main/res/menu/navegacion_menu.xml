@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opcCobros"
+        android:icon="@drawable/pago"
+        android:title="@string/cobros"/>
+
+    <item
+        android:id="@+id/opcListaClientes"
+        android:icon="@drawable/objetivo"
+        android:title="@string/lista_de_clientes"/>
+
+    <item
+        android:id="@+id/opcListaCobradores"
+        android:icon="@drawable/empleado"
+        android:title="@string/lista_de_cobradores"/>
+
+    <item
+        android:id="@+id/opcReportes"
+        android:icon="@drawable/reporte"
+        android:title="@string/reportes"/>
+
+    <item
+        android:id="@+id/itemOtros"
+        android:title="@string/otros">
+
+        <menu>
+
+            <item
+                android:id="@+id/opcMenuPerfil"
+                android:icon="@drawable/profile"
+                android:title="@string/mi_perfil"/>
+
+            <item
+                android:id="@+id/opcAcercaDe"
+                android:icon="@drawable/info"
+                android:title="@string/acerca_de"/>
+            <item
+                android:id="@+id/opcCerrarSesion"
+                android:icon="@drawable/log_out"
+                android:title="@string/cerrar_sesion"/>
+        </menu>
+    </item>
+
+</menu>
